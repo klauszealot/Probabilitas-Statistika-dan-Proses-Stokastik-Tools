@@ -1,6 +1,6 @@
-# Alat Probabilitas, Statistika, dan Proses Stokastik
+# Probabilitas, Statistika, dan Proses Stokastik Tools
 
-Aplikasi Desktop GUI komprehensif untuk menyelesaikan persoalan matematika dalam mata kuliah Probabilitas, Statistika, dan Proses Stokastik. Alat ini dibangun menggunakan **Python**, **Tkinter**, **SciPy**, dan **NumPy**.
+Aplikasi Desktop GUI untuk menyelesaikan persoalan matematika dalam mata kuliah Probabilitas, Statistika, dan Proses Stokastik. Alat ini dibuat menggunakan **Python**, **Tkinter**, **SciPy**, dan **NumPy**.
 
 ## 🚀 Fitur Utama
 
@@ -49,7 +49,7 @@ Anda dapat menjalankan aplikasi ini melalui dua cara:
 Jika Anda sudah memiliki file `.exe` hasil konversi:
 1. Cari file bernama `Probabilitas, Statistika, dan Proses Stokastik Tools.exe`.
 2. Klik dua kali pada file tersebut.
-3. Tunggu beberapa saat hingga jendela aplikasi muncul (tidak memerlukan instalasi Python di komputer target).
+3. Tunggu beberapa saat hingga jendela aplikasi muncul.
 
 ### B. Menjalankan dari Kode Sumber (Python)
 Pastikan Anda telah menginstal Python 3.10 ke atas.
