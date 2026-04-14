@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# Binaries
+*.exe
+*.bin
+*.out
+*.app
+
+# Large artifacts (optional but recommended)
+output/
